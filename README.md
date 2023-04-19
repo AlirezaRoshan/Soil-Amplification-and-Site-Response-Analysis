@@ -7,3 +7,4 @@ the bedrock is perfectly rigid, constant viscosity ratio (η) for cases η/ηcr 
 
 Please reach out to Alireza.Roshan@mst.edu if you have any questions.
 
+![image](https://user-images.githubusercontent.com/98343737/233111621-81be3962-7334-4d5d-a8f2-94ec1581c5cf.png)
